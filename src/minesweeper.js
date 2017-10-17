@@ -198,5 +198,5 @@
 // console.log('Updated Player Board');
 // printBoard(playerBoard);
 
-const g = new Game(3, 3, 3);
-g.playMove(0, 0);
+// const g = new Game(3, 3, 3);
+// g.playMove(0, 0);
